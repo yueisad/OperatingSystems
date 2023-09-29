@@ -1,0 +1,8 @@
+wrong attempted to log in at 2023-08-12 16:51:19 from 127.0.0.1
+ attempted to log in at 2023-08-12 16:54:38 from 192.168.0.82
+ attempted to log in at 2023-08-12 16:54:38 from 192.168.0.82
+ji attempted to log in at 2023-08-17 11:21:31 from 127.0.0.1
+cd "/Users/aldenpark/Github/OperatingSystems/loginProgram/src/" && javac UserAuthentication.java && java UserAuthentication attempted to log in at 2023-08-17 11:21:50 from 127.0.0.1
+exit attempted to log in at 2023-08-17 11:21:52 from 127.0.0.1
+john attempted to log in at 2023-08-17 11:21:59 from 127.0.0.1
+john logged in successfully at 2023-08-17 11:22:09 from 127.0.0.1
